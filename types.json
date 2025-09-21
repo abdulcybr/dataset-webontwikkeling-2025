@@ -1,0 +1,74 @@
+[
+  {
+    "id": "TYPE-001",
+    "name": "Hatchback",
+    "bodyStyle": "Hatchback",
+    "fuelOptions": ["Petrol", "Hybrid"],
+    "seatingCapacity": 5,
+    "averagePrice": 25000,
+    "popularBrands": ["Toyota", "Volkswagen"]
+  },
+  {
+    "id": "TYPE-002",
+    "name": "Sedan",
+    "bodyStyle": "Sedan",
+    "fuelOptions": ["Petrol", "Hybrid", "Diesel"],
+    "seatingCapacity": 5,
+    "averagePrice": 40000,
+    "popularBrands": ["BMW", "Mercedes-Benz"]
+  },
+  {
+    "id": "TYPE-003",
+    "name": "Electric Sedan",
+    "bodyStyle": "Sedan",
+    "fuelOptions": ["Electric"],
+    "seatingCapacity": 5,
+    "averagePrice": 50000,
+    "popularBrands": ["Tesla"]
+  },
+  {
+    "id": "TYPE-004",
+    "name": "Pickup Truck",
+    "bodyStyle": "Truck",
+    "fuelOptions": ["Petrol", "Diesel", "Hybrid"],
+    "seatingCapacity": 5,
+    "averagePrice": 45000,
+    "popularBrands": ["Ford"]
+  },
+  {
+    "id": "TYPE-005",
+    "name": "Supercar Coupe",
+    "bodyStyle": "Coupe",
+    "fuelOptions": ["Hybrid", "Petrol"],
+    "seatingCapacity": 2,
+    "averagePrice": 250000,
+    "popularBrands": ["Ferrari"]
+  },
+  {
+    "id": "TYPE-006",
+    "name": "Electric Crossover",
+    "bodyStyle": "Crossover",
+    "fuelOptions": ["Electric"],
+    "seatingCapacity": 5,
+    "averagePrice": 42000,
+    "popularBrands": ["Hyundai"]
+  },
+  {
+    "id": "TYPE-007",
+    "name": "Luxury SUV",
+    "bodyStyle": "SUV",
+    "fuelOptions": ["Hybrid", "Petrol", "Diesel"],
+    "seatingCapacity": 7,
+    "averagePrice": 60000,
+    "popularBrands": ["Volvo", "Mercedes-Benz"]
+  },
+  {
+    "id": "TYPE-008",
+    "name": "Station Wagon",
+    "bodyStyle": "Wagon",
+    "fuelOptions": ["Diesel", "Petrol", "Hybrid"],
+    "seatingCapacity": 5,
+    "averagePrice": 38000,
+    "popularBrands": ["Audi"]
+  }
+]

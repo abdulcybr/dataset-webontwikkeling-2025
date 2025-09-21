@@ -1,0 +1,138 @@
+[
+  {
+    "id": "CAR-001",
+    "name": "Toyota Corolla Hatchback",
+    "description": "Een betrouwbare en efficiënte hatchback die comfort en zuinigheid combineert met moderne veiligheidsfuncties en connectiviteit.",
+    "horsepower": 169,
+    "isElectric": false,
+    "releaseDate": "2022-03-15",
+    "imageUrl": "https://example.com/images/cars/toyota-corolla-hatchback.jpg",
+    "rarity": "Economy",
+    "features": [
+      "Adaptive Cruise Control",
+      "Lane Keeping Assist",
+      "Apple CarPlay"
+    ],
+    "typeid": "TYPE-001"
+  },
+  {
+    "id": "CAR-002",
+    "name": "BMW 3 Series Sedan",
+    "description": "Een dynamische sportsedan die rijplezier, premium afwerking en geavanceerde rijhulpsystemen biedt.",
+    "horsepower": 255,
+    "isElectric": false,
+    "releaseDate": "2023-02-10",
+    "imageUrl": "",
+    "rarity": "Luxury",
+    "features": [
+      "iDrive Infotainment",
+      "Heads-Up Display",
+      "Adaptive Suspension"
+    ],
+    "typeid": "TYPE-002"
+  },
+  {
+    "id": "CAR-003",
+    "name": "Tesla Model 3",
+    "description": "Volledig elektrische sedan met snelle acceleratie, lange actieradius en een minimalistisch interieur.",
+    "horsepower": 283,
+    "isElectric": true,
+    "releaseDate": "2024-06-01",
+    "imageUrl": "https://example.com/images/cars/tesla-model-3.jpg",
+    "rarity": "Tech",
+    "features": ["Autopilot", "Over-the-Air Updates", "Panoramadak"],
+    "typeid": "TYPE-003"
+  },
+  {
+    "id": "CAR-004",
+    "name": "Ford F-150",
+    "description": "Een iconische pick-up die bekendstaat om zijn trekvermogen en veelzijdigheid.",
+    "horsepower": 400,
+    "isElectric": false,
+    "releaseDate": "2021-09-12",
+    "imageUrl": "https://example.com/images/cars/ford-f150.jpg",
+    "rarity": "Utility",
+    "features": ["Tow Assist", "Pro Power Onboard", "360° Camera"],
+    "typeid": "TYPE-004"
+  },
+  {
+    "id": "CAR-005",
+    "name": "Volkswagen Golf GTI",
+    "description": "Een sportieve hatchback die prestaties en dagelijkse bruikbaarheid balanceert met scherpe handling.",
+    "horsepower": 241,
+    "isElectric": false,
+    "releaseDate": "2022-05-20",
+    "imageUrl": "https://example.com/images/cars/vw-golf-gti.jpg",
+    "rarity": "Sport",
+    "features": ["Sportstoelen", "DCC Chassis Control", "Digital Cockpit"],
+    "typeid": "TYPE-001"
+  },
+  {
+    "id": "CAR-006",
+    "name": "Ferrari 296 GTB",
+    "description": "Een hybride supercar met verbluffende prestaties en een meeslepende rijervaring.",
+    "horsepower": 819,
+    "isElectric": false,
+    "releaseDate": "2023-07-07",
+    "imageUrl": "https://example.com/images/cars/ferrari-296-gtb.jpg",
+    "rarity": "Supercar",
+    "features": [
+      "Carbon-keramische remmen",
+      "Aero-Optimalisatie",
+      "Track Telemetry"
+    ],
+    "typeid": "TYPE-005"
+  },
+  {
+    "id": "CAR-007",
+    "name": "Hyundai Ioniq 5",
+    "description": "Een futuristische, volledig elektrische crossover met ultrasnel laden en innovatieve technologieën.",
+    "horsepower": 225,
+    "isElectric": true,
+    "releaseDate": "2022-11-02",
+    "imageUrl": "https://example.com/images/cars/hyundai-ioniq5.jpg",
+    "rarity": "Tech",
+    "features": [
+      "Ultra-fast Charging",
+      "Vehicle-to-Load",
+      "AR Head-Up Display"
+    ],
+    "typeid": "TYPE-006"
+  },
+  {
+    "id": "CAR-008",
+    "name": "Volvo XC90 Recharge",
+    "description": "Een ruime en veilige plug-in hybride SUV die Scandinavisch design koppelt aan geavanceerde assistentiesystemen.",
+    "horsepower": 455,
+    "isElectric": false,
+    "releaseDate": "2023-03-18",
+    "imageUrl": "https://example.com/images/cars/volvo-xc90-recharge.jpg",
+    "rarity": "Luxury",
+    "features": ["Pilot Assist", "Google Built-in", "City Safety"],
+    "typeid": "TYPE-007"
+  },
+  {
+    "id": "CAR-009",
+    "name": "Mercedes-Benz G-Class",
+    "description": "Een luxe terreinwagen met iconisch, hoekig design en krachtige motoren.",
+    "horsepower": 416,
+    "isElectric": false,
+    "releaseDate": "2021-01-25",
+    "imageUrl": "https://example.com/images/cars/mercedes-g-class.jpg",
+    "rarity": "Luxury",
+    "features": ["MBUX", "Burmester Audio", "Nappa Leder"],
+    "typeid": "TYPE-007"
+  },
+  {
+    "id": "CAR-010",
+    "name": "Audi A4 Avant",
+    "description": "Een praktische en stijlvolle stationwagen met quattro-aandrijving en een hoogwaardig interieur.",
+    "horsepower": 201,
+    "isElectric": false,
+    "releaseDate": "2022-08-09",
+    "imageUrl": "https://example.com/images/cars/audi-a4-avant.jpg",
+    "rarity": "Comfort",
+    "features": ["quattro AWD", "Virtual Cockpit", "Matrix LED"],
+    "typeid": "TYPE-008"
+  }
+]
